@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Chanyoung Park
+# Hi, I’m Chanyoung Park
 
-I’m a Data Science student at **UC San Diego** passionate about machine learning, distributed systems, and high-performance computing.  
+I’m a Data Science student at **UC San Diego**, passionate about machine learning, distributed systems, and high-performance computing.  
 My projects range from building **LLM inference systems** on Raspberry Pi clusters to optimizing **real-time ML models** and designing **data pipelines on Azure**.
 
 ---
@@ -74,7 +74,6 @@ Awarded **Bronze at KSEF**.
 ### 📫 Connect With Me
 📧 **cypark1516@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/cypark1516)  
-🌐 [GitHub](https://github.com/youngpark1516)
 
 ---
 
