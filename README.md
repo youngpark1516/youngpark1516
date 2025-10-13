@@ -8,8 +8,8 @@ My work range from optimizing **LLM inference systems** on Raspberry Pi clusters
 ### 🧰 Technical Skills
 
 **Languages:** Python, Java, SQL, PostgreSQL, HTML, CSS, JavaScript/TypeScript, C++, R, Bash, MATLAB, Ansible  \
-**Frameworks/Libraries:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Plotly, OpenCV, Flask
-**Tools/Platforms:** Git, Docker, Kubernetes, CUDA, VSCode, Jupyter, Linux, Azure, AWS, Slurm, MPI, CI/CD 
+**Frameworks/Libraries:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Plotly, OpenCV, Flask \
+**Tools/Platforms:** Git, Docker, Kubernetes, CUDA, VSCode, Jupyter, Linux, Azure, AWS, Slurm, MPI, CI/CD \
 **Focus Areas:** Machine Learning, Cloud Computing, HPC, Distributed & Parallel Systems, Data Engineering
 
 ---
