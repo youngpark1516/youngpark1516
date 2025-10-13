@@ -5,6 +5,31 @@ My projects range from building **LLM inference systems** on Raspberry Pi cluste
 
 ---
 
+### 🧰 Technical Skills
+
+**Languages:** Python, Java, SQL, PostgreSQL, HTML, CSS, JavaScript/TypeScript, C++, R, Bash, MATLAB, Ansible  \
+**Frameworks/Libraries:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Plotly, OpenCV, Flask
+**Tools/Platforms:** Git, Docker, Kubernetes, CUDA, VSCode, Jupyter, Linux, Azure, AWS, Slurm, MPI, CI/CD 
+**Focus Areas:** Machine Learning, Cloud Computing, HPC, Distributed & Parallel Systems, Data Engineering
+
+---
+
+### 🎯 Current Focus
+- Working on MLPerf, Exascale Climate Emulation, and IMM paper reproduction in SCC 25.
+- Exploring CUDA-based optimization for ML workloads
+- Learning advanced backend & cloud orchestration tools
+
+---
+
+### 🧩 Leadership & Competitions
+
+**IEEE Supercomputing (UCSD)** — Officer  
+- Benchmarked **Stable Diffusion XL** with MLPerf across multi-GPU and HPC clusters.  
+- Led sub-team for **Distributed LLaMA**, placing **2nd nationally** in the D-LLaMA.
+[Competition Results →](https://single-board-cluster-competition.github.io/sbcc25-competition-site/results.html)
+
+---
+
 ### 🚀 Projects
 
 #### 🗣️ [Speech Sentiment Analysis](https://docs.google.com/presentation/d/1k_ScBkSocyFLJQ_lAp0O4UAooNImcLQ88zVOBPDndMA/edit?usp=sharing)
@@ -42,44 +67,6 @@ Awarded **Bronze at KSEF**.
 
 ---
 
-### 🧩 Leadership & Competitions
-
-**IEEE Supercomputing (UCSD)** — Officer  
-- Benchmarked **Stable Diffusion XL** with MLPerf across multi-GPU and HPC clusters.  
-- Led sub-team for **Distributed LLaMA**, placing **2nd nationally** in the D-LLaMA track.  
-[Competition Results →](https://single-board-cluster-competition.github.io/sbcc25-competition-site/results.html)
-
-**Eta Kappa Nu (IEEE Honor Society)** — Member  
-- Selected for academic excellence and technical leadership in data science.  
-- Organized peer mentorship sessions in applied ML and computing.
-
----
-
-### 🧰 Technical Skills
-
-**Languages:** Python, Java, SQL, HTML, CSS, JavaScript/TypeScript, C++, R, Bash, MATLAB, Ansible  
-**Frameworks/Libraries:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Matplotlib, Plotly, OpenCV, Flask  
-**Tools/Platforms:** Git, Docker, Kubernetes, CUDA, VSCode, Jupyter, Linux, Azure, AWS, Slurm, MPI, CI/CD  
-**Focus Areas:** Machine Learning, Cloud Computing, HPC, Distributed & Parallel Systems, Data Engineering
-
----
-
-### 🎯 Current Focus
-- Scaling distributed inference systems for LLMs  
-- Exploring CUDA-based optimization for ML workloads  
-- Learning advanced backend & cloud orchestration tools  
-
----
-
 ### 📫 Connect With Me
 📧 **cypark1516@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/cypark1516)  
-
----
-
-![Chanyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngpark1516&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngpark1516&layout=compact&theme=tokyonight)
-
----
-
-> “Build things that make learning faster and systems smarter.”
