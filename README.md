@@ -1,7 +1,7 @@
 # Hi, I’m Chanyoung Park
 
 I’m a Data Science student at **UC San Diego**, passionate about machine learning, distributed systems, and high-performance computing.  
-My projects range from building **LLM inference systems** on Raspberry Pi clusters to optimizing **real-time ML models** and designing **data pipelines on Azure**.
+My work range from optimizing **LLM inference systems** on Raspberry Pi clusters to designing **data pipelines** and building **real-time ML models** for cloud deployment.
 
 ---
 
