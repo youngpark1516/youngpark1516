@@ -35,8 +35,6 @@ My work range from optimizing **LLM inference systems** on Raspberry Pi clusters
 #### 🏅 [League of Legends Position Analysis](https://github.com/youngpark1516/League-of-Legends-position-analysis)
 *Python, Pandas, scikit-learn, Matplotlib, Seaborn*  
 Analyzed match data from professional League of Legends games to explore how **gold distribution and role dynamics** affect player performance.  
-Built a classifier to predict **player lane positions** using engineered metrics such as gold share, vision score, and combat efficiency.  
-Enhanced baseline Random Forest performance through feature engineering (`goldat15/csat15`, `damagetochampions/gamelength`, champion one-hot encoding), achieving an **F1 score of 0.909**.  
 Performed fairness and error analysis to evaluate model consistency across different game contexts.
 
 #### 🗣️ [Speech Sentiment Analysis](https://docs.google.com/presentation/d/1k_ScBkSocyFLJQ_lAp0O4UAooNImcLQ88zVOBPDndMA/edit?usp=sharing)
