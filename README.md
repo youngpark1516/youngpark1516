@@ -32,30 +32,36 @@ My work range from optimizing **LLM inference systems** on Raspberry Pi clusters
 
 ### 🚀 Projects
 
-#### 🏅 [League of Legends Position Analysis](https://github.com/youngpark1516/League-of-Legends-position-analysis)
+#### [CUDA Image Processor](https://github.com/youngpark1516/cuda-image-processor)
+*C++, CUDA, Linux, Docker*  
+Developed a modular GPU-accelerated image processing system with separate CUDA kernels for **grayscale**, **box blur**, and **Sobel edge detection**.  
+Designed a clean multi-file structure with a custom **Makefile build system**, achieving efficient parallel performance across multiple RTX 2080 Ti GPUs.  
+Currently extending the project with **Gaussian blur** and **benchmarking utilities** for CUDA performance profiling.
+
+#### [League of Legends Position Analysis](https://github.com/youngpark1516/League-of-Legends-position-analysis)
 *Python, Pandas, scikit-learn, Matplotlib, Seaborn*  
 Analyzed match data from professional League of Legends games to explore how **gold distribution and role dynamics** affect player performance.  
 Performed fairness and error analysis to evaluate model consistency across different game contexts.
 
-#### 🗣️ [Speech Sentiment Analysis](https://docs.google.com/presentation/d/1k_ScBkSocyFLJQ_lAp0O4UAooNImcLQ88zVOBPDndMA/edit?usp=sharing)
+#### [Speech Sentiment Analysis](https://docs.google.com/presentation/d/1k_ScBkSocyFLJQ_lAp0O4UAooNImcLQ88zVOBPDndMA/edit?usp=sharing)
 *Python, PyTorch, Raspberry Pi Zero*  
 Built and deployed an LSTM model for real-time sentiment analysis on Raspberry Pi Zero.  
 Optimized hyperparameters via Bayesian search and achieved **97% validation accuracy**, earning **2nd place** at IEEE competition.
 
-#### 🌀 [Simulating Optimizers from Scratch](https://github.com/youngpark1516/Optimizer_Simulations)
+#### [Simulating Optimizers from Scratch](https://github.com/youngpark1516/Optimizer_Simulations)
 *Python, Matplotlib*  
 Implemented gradient-based algorithms (GD, AdaGrad, RMSProp, AdaDelta, Adam) from scratch.  
 Visualized optimization paths over complex surfaces using Matplotlib animations.
 
-#### 🧠 [Deepfake Detection with Facial Landmarks](https://drive.google.com/file/d/1RmNfi3OG8pUier23E-eLhywEAmvrRyp3/view?usp=sharing)
+#### [Deepfake Detection with Facial Landmarks](https://drive.google.com/file/d/1RmNfi3OG8pUier23E-eLhywEAmvrRyp3/view?usp=sharing)
 *Python, scikit-learn*  
 Developed a facial landmark–based detection pipeline with visual evaluation and cross-validated metrics.
 
-#### 🖼️ [Image Classification with Limited Resources](https://docs.google.com/presentation/d/1FwbEjDJ-d-YCvKzkLokAd2VNexY5_Wtpx-D_VK3QDGQ/edit?usp=sharing)
+#### [Image Classification with Limited Resources](https://docs.google.com/presentation/d/1FwbEjDJ-d-YCvKzkLokAd2VNexY5_Wtpx-D_VK3QDGQ/edit?usp=sharing)
 *Python, TensorFlow, CUDA*  
 Researched preprocessing methods and used **CUDA acceleration** to achieve **95% validation accuracy** under limited compute.
 
-#### ⚛️ [AI for Physics Simulations](https://drive.google.com/file/d/10szy5ye2NQzvT1U4gKSKeYxVItahlalC/view?usp=sharing)
+#### [AI for Physics Simulations](https://drive.google.com/file/d/10szy5ye2NQzvT1U4gKSKeYxVItahlalC/view?usp=sharing)
 *Python, LSTM*  
 Created a 2D physics engine to generate motion data and trained an LSTM for trajectory prediction.  
 Awarded **Bronze at KSEF**.
